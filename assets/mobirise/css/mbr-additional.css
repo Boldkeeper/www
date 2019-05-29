@@ -1537,8 +1537,8 @@ body {
   text-shadow: rgba(255, 255, 255, 0.1) -0.5px -0.5px 0.5px, rgba(0, 0, 0, 0.5) 0.5px 0.5px 0.5px;
 }
 .cid-ri44ojxpNy {
-  padding-top: 15px;
-  padding-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-ri44ojxpNy .accordion-content {
@@ -1552,6 +1552,7 @@ body {
 .cid-ri44ojxpNy .header-text,
 .cid-ri44ojxpNy .mbr-section-subtitle {
   color: #8d97ad;
+  margin-bottom: 0;
 }
 .cid-ri44ojxpNy .card {
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
@@ -1590,7 +1591,6 @@ body {
 }
 .cid-ri44ojxpNy .card .card-header a.panel-title h4 {
   padding: 1rem 1rem;
-  margin-bottom: 0;
   width: 100%;
 }
 .cid-ri44ojxpNy .card .card-header a.panel-title[aria-expanded="true"] {
@@ -1613,6 +1613,8 @@ body {
 }
 .cid-ri44ojxpNy .panel-text {
   color: #232323;
+  margin-top: -1em;
+  margin-bottom: -0.8em;
 }
 .cid-ri4Ec4wLcn {
   padding-top: 45px;
